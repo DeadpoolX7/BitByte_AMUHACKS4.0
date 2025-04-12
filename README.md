@@ -55,8 +55,8 @@ pnpm run dev
 
 ## 👥 Team Members
 
-- [Sanju Shaw]
-- [Team Member 2]
+- [Sanju Shaw](www.linkedin.com/in/sanju-shaw-225ab4214)
+- [Saqlain Haidar](https://www.linkedin.com/in/saqlain-haidar-41b09b319/)
 
 
 ## 🏆 Hackathon Track
