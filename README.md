@@ -66,7 +66,16 @@ pnpm run dev
 
 ## 📸 Screenshots
 
-[Add your application screenshots here]
+![Home Page](https://github.com/user-attachments/assets/33f0f649-08d8-4df5-aded-1f925936d3ea)
+
+![Internal UI](https://github.com/user-attachments/assets/ec135b5b-c726-4ae4-bf56-6e4bb75e2b21)
+
+![price-card](https://github.com/user-attachments/assets/0e64f55f-e04c-4516-8050-a4cfcbe181f7)
+
+![Dashboard](https://github.com/user-attachments/assets/a5195955-3f9e-4da1-bc2e-f678c698ce66)
+
+![LeaderBoard section](https://github.com/user-attachments/assets/af933134-bf81-4462-a839-4730e05d2ed6)
+
 
 ## 🔮 Future Scope
 
