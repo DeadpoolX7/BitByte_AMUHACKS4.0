@@ -55,7 +55,7 @@ pnpm run dev
 
 ## 👥 Team Members
 
-- [Sanju Shaw](www.linkedin.com/in/sanju-shaw-225ab4214)
+- [Sanju Shaw](https://www.linkedin.com/in/sanju-shaw-225ab4214)
 - [Saqlain Haidar](https://www.linkedin.com/in/saqlain-haidar-41b09b319/)
 
 
@@ -87,4 +87,4 @@ pnpm run dev
 
 ## 📄 License
 
-[Your chosen license]
+[MIT License](LICENSE)
