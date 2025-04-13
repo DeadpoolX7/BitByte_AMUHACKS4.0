@@ -1,6 +1,6 @@
 # EcoRewards 🌱
 
-> A Smart City Initiative for Sustainable Urban Living | AMUHACKS 4.0
+> A Smart City Initiative for Sustainable Urban Living | AMUHACKS 4.0. #AMUHACKS4.0 #CSSAMU #CSDAMU #AMU
 
 ## 🌟 Project Overview
 
