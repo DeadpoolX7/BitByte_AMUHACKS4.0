@@ -80,6 +80,7 @@ pnpm run dev
 ## 🔮 Future Scope
 
 - Integration with IoT devices
+- Purchase a dedicated domain name
 - Blockchain-based reward system
 - Smart contract implementation
 - Mobile app development
