@@ -22,6 +22,9 @@ EcoRewards provides a digital platform where citizens can:
 - Redeem points for eco-friendly products/services
 - Connect with like-minded community members
 
+## 📹 Demo Video
+[**YouTube Video**](https://www.youtube.com/watch?v=IkSuMGJyYD0)
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React + Vite
